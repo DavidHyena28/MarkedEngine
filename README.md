@@ -1,11 +1,10 @@
 WARNING!!!!!!!!!
 
-if you are a programmer and you are using this code, please do not delete the export folder!!
-Its because MarkedEngine is made using PsychEngine.
-Sooo if you delete the folder, istead of opening MarkedEngine, it will open Psych Engine
+Before anyone starts any controversy, I wanted to say that MarkedEngine uses PsychEngine/P-slice Engine.
+We got some people saying on our discord "Dude this is not a real engine because it uses Psych" So yeah.
 
-Thx for reading!
-
+Thx for reading!!
+-DavidHyena
 
 Credits:
 
